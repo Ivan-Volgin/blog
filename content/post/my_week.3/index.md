@@ -1,5 +1,5 @@
 ---
-title: Как прошла моя неделя 2.0
+title: Как прошла моя неделя 3.0
 subtitle: 
 
 # Summary for listings and search engines
