@@ -42,30 +42,27 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: book
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: https://www.elibrary.ru/defaultx.asp
+  - icon: mendeley
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: https://www.mendeley.com/search/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=new_articles&hl=ru&imq=%D0%98%D0%B2%D0%B0%D0%BD+%D0%92%D0%BE%D0%BB%D0%B3%D0%B8%D0%BD#
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/Ivan-Volgin
+  - icon: researchgate
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.researchgate.net/profile/Ivan-Volgin
+  - icon: book-open
+    icon_pack: fas
+    link: https://independent.academia.edu/%D0%98%D0%B2%D0%B0%D0%BD%D0%92%D0%BE%D0%BB%D0%B3%D0%B8%D0%BD
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://arxiv.org/user/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
