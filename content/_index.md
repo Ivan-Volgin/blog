@@ -175,6 +175,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Website
+          tag: Website
         - name: Other
           tag: Demo
     design:
