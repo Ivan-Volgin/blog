@@ -1,6 +1,6 @@
 ---
-title: Cybersecurity cybersecurity
-summary: An example of using the in-built project page.
+title: Basics cybersecurity
+summary: Extra course in university.
 tags:
   - Website
 date: '2024-05-18T00:00:00Z'
